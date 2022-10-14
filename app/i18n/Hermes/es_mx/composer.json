@@ -1,0 +1,20 @@
+{
+    "name": "hermes/language-es_mx",
+    "description": "Spanish (Mexico) language",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "102.0.*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

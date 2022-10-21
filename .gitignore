@@ -9,3 +9,6 @@
 !/auth.json
 !/composer.json
 !/composer.lock
+!/training-modules
+!/training-modules/**
+!README.md
